@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Mision6</string>
+    <string name="drawerAbierto">Abierto</string>
+    <string name="drawerCerrado">Cerrado</string>
+    <string name="username">Media Cloud</string>
+    <string name="correousuario">mediacloud@nextu.com</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="mediacloud">Media Cloud</string>
+    <string name="animaciones_name">Animaciones</string>
+    <string name="abrir">Abrir</string>
+    <string name="capturar">Capturar</string>
+    <string name="ruta">Ruta:ningún archivo seleccionado</string>
+    <string name="grabar">Grabar</string>
+    <string name="reproducir">Reproducir</string>
+</resources>

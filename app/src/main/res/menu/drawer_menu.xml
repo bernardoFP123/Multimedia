@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Animaciones"
+        android:checked="true"
+        android:id="@+id/drawerAnim"
+        android:icon="@drawable/ic_anim"
+        android:checkable="true"></item>
+    <item android:title="Gráficos"
+        android:id="@+id/drawerGraficos"
+        android:icon="@drawable/ic_graficos"
+        android:checkable="true"></item>
+    <item android:title="Imagen"
+        android:id="@+id/drawerImaget"
+        android:icon="@drawable/ic_images"
+        android:checkable="true"></item>
+    <item android:title="Audio"
+        android:id="@+id/drawerAudio"
+        android:icon="@drawable/ic_music_audio"
+        android:checkable="true"></item>
+    <item android:title="Video"
+        android:id="@+id/drawerVideo"
+        android:icon="@drawable/ic_video"
+        android:checkable="true"></item>
+</menu>

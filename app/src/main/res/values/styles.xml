@@ -1,0 +1,41 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:titleTextAppearance">@style/AppTheme.Title</item>
+        <item name="android:subtitleTextAppearance">@style/AppTheme.Subtitle</item>
+        <item name="drawerArrowStyle">@style/AppTheme.DrawerArrowStyle</item>
+
+    </style>
+    <style name="AppTheme.AppBarOverlay" parent="AppTheme">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="AppTheme.AppBarPopUp" parent="AppTheme">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.Title">
+        <item name="android:textSize">24dp</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+    <style name="AppTheme.Subtitle">
+        <item name="android:textSize">12dp</item>"
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+    <style name="AppTheme.DrawerArrowStyle"  parent="Widget.AppCompat.DrawerArrowToggle">
+        <item name="spinBars">true</item>
+        <item name="color">@android:color/white</item>
+    </style>
+</resources>
